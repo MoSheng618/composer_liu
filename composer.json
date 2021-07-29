@@ -1,18 +1,17 @@
 {
-    "name": "lxj/composer_liu",
-    "require": {
-            "php": "^7.2", //必须的版本
-        }，
-    "autoload": {
-        "psr-4": {
-            "Lxj\\ComposerLiu\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "mosheng",
-            "email": "mosheng618@163.com"
-        }
-    ],
-    "license": "MIT",
+	"name": "lxj/composer_liu",
+	"require": {
+		"php": "^7.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Lxj\\ComposerLiu\\": "src/"
+		}
+	},
+	"authors": [{
+		"name": "mosheng",
+		"email": "mosheng618@163.com"
+	}],
+	"license": "MIT"
 }
+
