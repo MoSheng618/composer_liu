@@ -1,5 +1,8 @@
 {
     "name": "lxj/composer_liu",
+    "require": {
+            "php": "^7.2", //必须的版本
+        }，
     "autoload": {
         "psr-4": {
             "Lxj\\ComposerLiu\\": "src/"
@@ -11,5 +14,5 @@
             "email": "mosheng618@163.com"
         }
     ],
-    "require": {}
+    "license": "MIT",
 }
