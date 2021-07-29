@@ -1,0 +1,15 @@
+{
+    "name": "lxj/composer_liu",
+    "autoload": {
+        "psr-4": {
+            "Lxj\\ComposerLiu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mosheng",
+            "email": "mosheng618@163.com"
+        }
+    ],
+    "require": {}
+}
